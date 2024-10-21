@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description: "Personal portfolio and blog of Ziggy Baker, showcasing web development projects and insights.",
     images: [
       {
-        url: "https://www.ziggybaker.com/og-image.jpg",
+        url: "https://www.ziggybaker.com/hero.png",
         width: 1200,
         height: 630,
         alt: "Ziggy Baker - Web Developer & Designer",
@@ -42,15 +42,15 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Ziggy Baker - Web Developer & Designer",
     description: "Personal portfolio and blog of Ziggy Baker, showcasing web development projects and insights.",
-    images: ["https://www.ziggybaker.com/twitter-image.jpg"],
+    images: ["https://www.ziggybaker.com/hero.png"],
     creator: "@ziggybaker",
   },
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
-    apple: "/apple-touch-icon.png",
+    icon: "./favicon2.png",
+    shortcut: "./favicon2.png",
+    apple: "./favicon2.png",
   },
-  manifest: "/site.webmanifest",
+
 };
 
 export default function RootLayout({
