@@ -100,7 +100,7 @@ export default function Home() {
             Clone the repository:
             <pre className="bg-black dark:bg-white p-4 rounded-lg">
               <code className="text-white dark:text-black font-mono">
-                git clone https://github.com/yourusername/your-repo-name
+                git clone https://github.com/TheHalfTimePrince/Apis4Tokens
               </code>
             </pre>
           </li>
@@ -108,7 +108,7 @@ export default function Home() {
             Navigate to the project directory:
             <pre className="bg-black dark:bg-white p-4 rounded-lg">
               <code className="text-white dark:text-black font-mono">
-                cd your-repo-name
+                cd Apis4Tokens
               </code>
             </pre>
           </li>
