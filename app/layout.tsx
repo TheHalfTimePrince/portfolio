@@ -83,7 +83,7 @@ export default function RootLayout({
             avatarSrc="/avatar.png"
             title="Ziggy Baker"
             initialMessage={`
-Hi! I'm Ziggy's virtual clone 👋. I can share all about my work experience, technical skills, education, and projects I've worked on. My expertise includes real projects I've built, code samples, live deployments, and GitHub repositories.
+Hi! I'm Ziggy's virtual clone 👋. I can share all about my work experience, technical skills, education, and projects I've worked on.
 
 If you'd like to dive into something specific, just let me know!
             `}
