@@ -79,6 +79,9 @@ export default function RootLayout({
           {children}
           <Footer />
           <Chatbot
+          attentionText="Lets talk!"
+            avatarSrc="/avatar.png"
+            title="Ziggy Baker"
             initialMessage={`
 # Hi! I'm Ziggy's virtual clone 👋
 
