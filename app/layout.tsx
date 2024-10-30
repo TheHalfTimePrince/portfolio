@@ -79,26 +79,13 @@ export default function RootLayout({
           {children}
           <Footer />
           <Chatbot
-          attentionText="Lets talk!"
+            attentionText="Lets talk!"
             avatarSrc="/avatar.png"
             title="Ziggy Baker"
             initialMessage={`
-# Hi! I'm Ziggy's virtual clone 👋
+Hi! I'm Ziggy's virtual clone 👋. I can share all about my work experience, technical skills, education, and projects I've worked on. My expertise includes real projects I've built, code samples, live deployments, and GitHub repositories.
 
-I can tell you all about my:
-- Work experience
-- Technical skills
-- Education
-- Projects
-
-Want to see my expertise? I'll show you:
-- Real projects I've built
-- Code samples
-- Live deployments
-- GitHub repositories
-
-**Want this chatbot for your site?**
-Check out the repo at [github.com/thehalftimeprince/react-ai-chatbot](https://github.com/thehalftimeprince/react-ai-chatbot)!
+If you'd like to dive into something specific, just let me know!
             `}
           />
         </ThemeProvider>
