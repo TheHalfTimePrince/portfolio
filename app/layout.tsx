@@ -86,6 +86,8 @@ export default function RootLayout({
 Hi! I'm Ziggy's virtual clone 👋. I can share all about my work experience, technical skills, education, and projects I've worked on.
 
 If you'd like to dive into something specific, just let me know!
+
+Note: I was built using a large language model, so I can hallucinate, make mistakes and be wrong. 
             `}
           />
         </ThemeProvider>
